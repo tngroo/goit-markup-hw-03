@@ -45,10 +45,14 @@ ul {
         color: #2E2F42;
 }
 
+.contact-section {
+    font-style: normal;
+}
 .contact-item {
     font-style: normal;
         line-height: 1.5;
-        color: #2E2F42;
+        color: #434455;
+        letter-spacing: 0.02em;
 }
 
 .contact-item:hover, .contact-item:focus {
@@ -75,7 +79,7 @@ ul {
     letter-spacing: 0.04em;
     font-weight: 500;
         color: #FFFFFF;
-        сursor: pointer;
+        cursor: pointer;
 }
 
 .button-order-service:hover,
@@ -88,6 +92,7 @@ ul {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
+        letter-spacing: 0.02em;
         color: #2E2F42;
 }
 
@@ -119,12 +124,14 @@ ul {
         font-size: 20px;
         line-height: 1.2;
         text-align: center;
+        letter-spacing: 0.02em;
         color: #2E2F42;
 }
 
 .team-text {
         line-height: 1.5;
         text-align: center;
+        letter-spacing: 0.02em;
         color: #434455;
 }
 
@@ -140,12 +147,14 @@ ul {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
+        letter-spacing: 0.02em;
         color: #2E2F42;
 }
 
 .portfolio-text {
         line-height: 1.5;
         color: #434455;
+        letter-spacing: 0.02em;
 }
 
 .footer-section {
