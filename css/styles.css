@@ -46,6 +46,7 @@ ul {
 .nav-link {}
 
 .contact-list {
+    font-style: normal;
         line-height: 1.5;
         color: #2E2F42;
 }
